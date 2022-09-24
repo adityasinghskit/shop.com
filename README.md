@@ -6,8 +6,11 @@ Shop.com is an e-commerce website which has presence in US, Canada, Australia, M
 ## Introduction
 This is a clone of website shop.com, The project was awarded to us by Masai School. We have tried to complete the basic functionality of the website and also tried to make the website as responsive as possible. In the given timeframe of only 5 days.
 
-## Techstack
-HTML,CSS & JS.
+## Tech Stack
+![view - Documentation](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5)
+![view - Documentation](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![view - Documentation](https://img.shields.io/badge/JS-red?style=for-the-badge&logo=javaScript)
+![view - Documentation](https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap)
 
 ## Team members
 Our comprised of five members:
